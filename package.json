@@ -1,6 +1,6 @@
 {
   "name": "@libtommy2024/incidunt-iste-molestiae-recusandae",
-  "version": "5.21.154",
+  "version": "5.21.155",
   "description": "",
   "main": "index.js",
   "author": "OraliePham",
@@ -284,5 +284,5 @@
   "bugs": {
     "url": "https://github.com/libtommy2024/incidunt-iste-molestiae-recusandae/issues"
   },
-  "packageManager": "yarn@4.5.0"
+  "packageManager": "yarn@4.5.1"
 }
